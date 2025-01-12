@@ -1,0 +1,10 @@
+{
+	"id": "link-everything",
+	"name": "Link Everything",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.11",
+	"description": "Allows you to use the selected word as an alias in link suggestion as a command, hotkey or in the context menu.",
+	"author": "caBattista",
+	"authorUrl": "https://github.com/caBattista/",
+	"isDesktopOnly": false
+}

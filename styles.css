@@ -1,0 +1,23 @@
+/*Icon Picker*/
+.le-menu-icon {
+    transform: translateY(3px);
+    margin-right: 8px;
+}
+
+.le-menu-icon-container{
+    display: flex;
+}
+
+.le-menu-settings-icon {
+    height: 20px;
+    margin-right: 0.5rem;
+    transform: translateY(2px);
+}
+
+.le-menu-flex {
+    display: flex;
+}
+
+div.le-menu-hide-item {
+    display: none;
+}
